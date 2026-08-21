@@ -20,3 +20,6 @@ All solved problems organized by pattern/category.
 
 ## Conditional Statements
 - [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) - *Easy*
+
+## Uncategorized
+- [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
