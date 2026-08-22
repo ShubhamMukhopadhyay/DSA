@@ -23,3 +23,6 @@ All solved problems organized by pattern/category.
 
 ## Uncategorized
 - [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
+
+## Arrays & Hashing
+- [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
