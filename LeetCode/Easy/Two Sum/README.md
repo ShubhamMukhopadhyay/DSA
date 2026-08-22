@@ -5,7 +5,7 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | python |
-| **Solved On** | August 17, 2026 |
+| **Solved On** | August 22, 2026 |
 | **Tags** | Array, Hash Table |
 | **Link** | [View Problem](https://leetcode.com/problems/two-sum/) |
 | **Runtime** | 0 ms |
