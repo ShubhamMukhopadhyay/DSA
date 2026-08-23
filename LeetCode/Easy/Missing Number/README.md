@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | python |
-| **Solved On** | August 21, 2026 |
+| **Solved On** | August 23, 2026 |
 | **Tags** | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/missing-number/) |
 | **Runtime** | 0 ms |
-| **Memory** | 13.4 MB |
+| **Memory** | 13.3 MB |
 
 ## Problem Description
 
