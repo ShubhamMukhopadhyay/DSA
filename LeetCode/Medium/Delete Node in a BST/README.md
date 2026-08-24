@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | python |
-| **Solved On** | August 19, 2026 |
+| **Solved On** | August 24, 2026 |
 | **Tags** | Tree, Binary Search Tree, Binary Tree |
 | **Link** | [View Problem](https://leetcode.com/problems/delete-node-in-a-bst/) |
 | **Runtime** | 0 ms |
-| **Memory** | 12.5 MB |
+| **Memory** | 20.3 MB |
 
 ## Problem Description
 
