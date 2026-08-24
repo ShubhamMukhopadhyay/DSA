@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | python |
-| **Solved On** | August 19, 2026 |
+| **Solved On** | August 24, 2026 |
 | **Tags** | Tree, Binary Search Tree, Binary Tree |
 | **Link** | [View Problem](https://leetcode.com/problems/insert-into-a-binary-search-tree/) |
-| **Runtime** | 0 ms |
-| **Memory** | 12.4 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 16.6 MB |
 
 ## Problem Description
 
