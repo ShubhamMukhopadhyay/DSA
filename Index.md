@@ -30,3 +30,6 @@ All solved problems organized by pattern/category.
 
 ## Dynamic Programming
 - [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) - *Easy*
+
+## Linked List
+- [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) - *Medium*
