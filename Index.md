@@ -11,6 +11,7 @@ All solved problems organized by pattern/category.
 - [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) - *Easy*
 
 ## Two Pointers
+- [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 
