@@ -42,3 +42,6 @@ All solved problems organized by pattern/category.
 
 ## Math & Geometry
 - [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) - *Easy*
+
+## Heap / Priority Queue
+- [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) - *Medium*
