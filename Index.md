@@ -16,6 +16,7 @@ All solved problems organized by pattern/category.
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 
 ## Binary Search Tree
+- [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) - *Medium*
 - [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) - *Medium*
 - [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) - *Medium*
 - [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) - *Medium*
