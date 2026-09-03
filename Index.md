@@ -16,6 +16,7 @@ All solved problems organized by pattern/category.
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 
 ## Binary Search Tree
+- [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) - *Medium*
 - [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) - *Medium*
 - [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) - *Medium*
 - [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) - *Easy*
