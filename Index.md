@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Trees
+- [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) - *Easy*
 - [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) - *Easy*
 - [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) - *Easy*
 - [Maximum Depth Of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20Of%20Binary%20Tree) - *Easy*
