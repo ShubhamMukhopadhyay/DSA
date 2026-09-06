@@ -48,3 +48,6 @@ All solved problems organized by pattern/category.
 ## Heap / Priority Queue
 - [Last Stone Weight](./LeetCode/Easy/Last%20Stone%20Weight) - *Easy*
 - [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) - *Medium*
+
+## Maths
+- [Add Digits](./LeetCode/Easy/Add%20Digits) - *Easy*
