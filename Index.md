@@ -31,6 +31,7 @@ All solved problems organized by pattern/category.
 - [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
 
 ## Arrays & Hashing
+- [Pascal's Triangle II](./LeetCode/Easy/Pascals%20Triangle%20II) - *Easy*
 - [Maximum Ascending Subarray Sum](./LeetCode/Easy/Maximum%20Ascending%20Subarray%20Sum) - *Easy*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 
