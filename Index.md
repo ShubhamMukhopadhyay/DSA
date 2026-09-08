@@ -54,3 +54,6 @@ All solved problems organized by pattern/category.
 
 ## Maths
 - [Add Digits](./LeetCode/Easy/Add%20Digits) - *Easy*
+
+## Bit Manipulation
+- [Single Number](./LeetCode/Easy/Single%20Number) - *Easy*
