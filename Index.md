@@ -31,6 +31,7 @@ All solved problems organized by pattern/category.
 - [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
 
 ## Arrays & Hashing
+- [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 - [Pascal's Triangle](./LeetCode/Easy/Pascals%20Triangle) - *Easy*
 - [Pascal's Triangle II](./LeetCode/Easy/Pascals%20Triangle%20II) - *Easy*
