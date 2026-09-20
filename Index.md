@@ -57,6 +57,7 @@ All solved problems organized by pattern/category.
 - [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) - *Medium*
 
 ## Maths
+- [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
 - [Add Digits](./LeetCode/Easy/Add%20Digits) - *Easy*
 
 ## Bit Manipulation
