@@ -31,6 +31,7 @@ All solved problems organized by pattern/category.
 - [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
 
 ## Arrays & Hashing
+- [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) - *Easy*
 - [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
