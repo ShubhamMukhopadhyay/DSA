@@ -8,8 +8,8 @@
 | **Solved On** | September 24, 2026 |
 | **Tags** | Array, Backtracking |
 | **Link** | [View Problem](https://leetcode.com/problems/permutations/) |
-| **Runtime** | 3 ms |
-| **Memory** | 12.3 MB |
+| **Runtime** | 0 ms |
+| **Memory** | 12.4 MB |
 
 ## Problem Description
 
