@@ -32,6 +32,7 @@ All solved problems organized by pattern/category.
 - [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
 
 ## Arrays & Hashing
+- [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) - *Medium*
 - [Wiggle Sort II](./LeetCode/Medium/Wiggle%20Sort%20II) - *Medium*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) - *Easy*
