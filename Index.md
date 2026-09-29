@@ -74,4 +74,5 @@ All solved problems organized by pattern/category.
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 
 ## Matrix
+- [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
 - [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) - *Easy*
