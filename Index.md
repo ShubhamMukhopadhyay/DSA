@@ -72,3 +72,6 @@ All solved problems organized by pattern/category.
 - [Ransom Note](./LeetCode/Easy/Ransom%20Note) - *Easy*
 - [Add Binary](./LeetCode/Easy/Add%20Binary) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
+
+## Matrix
+- [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) - *Easy*
