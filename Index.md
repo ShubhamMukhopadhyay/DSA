@@ -32,6 +32,7 @@ All solved problems organized by pattern/category.
 - [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
 
 ## Arrays & Hashing
+- [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 - [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) - *Hard*
 - [Permutations](./LeetCode/Medium/Permutations) - *Medium*
 - [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) - *Medium*
