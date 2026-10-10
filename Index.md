@@ -75,6 +75,7 @@ All solved problems organized by pattern/category.
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 
 ## Matrix
+- [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) - *Easy*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
